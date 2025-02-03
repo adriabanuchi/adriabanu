@@ -2,7 +2,7 @@
 pid: obj11
 artist: Myrna Baez
 location: Puerto Rico
-label: Portrait of Sheikh Ali Mirza
+label: la myrna
 _date: s.xx
 object_type: artista
 current_location: The Museum of Islamic Art, Qatar
