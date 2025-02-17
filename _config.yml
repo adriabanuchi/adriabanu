@@ -130,7 +130,7 @@ footer:
     - label: 'Credits'
       link: '/credits'
     - label: 'Wiki'
-      link: 'https://minicomp.github.io/wiki/wax/'
+      link: 'https://minicomp.github.io/adriabanu/'
   logos:
     - img: '/img/logo.png'
 
